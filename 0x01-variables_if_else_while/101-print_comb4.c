@@ -1,3 +1,5 @@
+
+
 #include <stdio.h>
 #include <stdlib.h>
 /**
@@ -46,4 +48,9 @@ int main(void)
 				c++;
 			}
 			d++;
-
+		}
+		e++;
+	}
+	putchar('\n');
+	return (0);
+}
