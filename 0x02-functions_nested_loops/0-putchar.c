@@ -1,14 +1,18 @@
-#include <main.h>
-
+#include "main.h"
 
 /**
  * main - Entry point
  * Return:0
  */
 
-
 int main(void)
-{ 
-	  putchar("_putchar/n");
+{
+char c[] = "_putchar";
+int i = 0;
+for (i = 0; i < 8; i++)
+{
+_putchar(c[i]);
 }
-    return 0;
+_putchar('\n');
+return (0);
+}
