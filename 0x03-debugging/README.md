@@ -1,2 +1,1 @@
-Discription 0x03. C - Debugging
-3rd task of alx-low-level-program
+3rd exercise on alx low level programming -c language
