@@ -4,11 +4,6 @@
 * main - causes an infinite loop
 * Return: 0
 */
-
-/*don’t delete it!*/
-
-
-
 int main(void)
 {
         int i;
