@@ -7,8 +7,6 @@
 
 /*don’t delete it!*/
 
-
-
 int main(void)
 {
         int i;
